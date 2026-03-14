@@ -1,0 +1,1045 @@
+1. Frieren: Beyond Journey�s End Season 2
+ Genre: ['Adventure', 'Drama', 'Fantasy']
+ Studio: MADHOUSE
+
+2. Fate/strange Fake
+ Genre: ['Action', 'Adventure', 'Fantasy', 'Mystery', 'Supernatural']
+ Studio: A-1 Pictures
+
+3. JUJUTSU KAISEN Season 3: The Culling Game Part 1
+ Genre: ['Action', 'Drama', 'Supernatural']
+ Studio: MAPPA
+
+4. Fire Force Season 3 Part 2
+ Genre: ['Action', 'Drama', 'Sci-Fi', 'Supernatural']
+ Studio: David Production
+
+5. Sentenced to Be a Hero
+ Genre: ['Action', 'Comedy', 'Drama', 'Fantasy']
+ Studio: Studio KAI
+
+6. Medalist Season 2
+ Genre: ['Drama', 'Psychological', 'Sports']
+ Studio: ENGI
+
+7. Reincarnated as a Dragon Hatchling
+ Genre: ['Action', 'Adventure', 'Fantasy']
+ Studio: GA-CREW, Felix Film
+
+8. To Your Eternity Season 3
+ Genre: ['Adventure', 'Drama', 'Fantasy', 'Psychological', 'Supernatural']
+ Studio: Drive, Studio Massket
+
+Traceback (most recent call last):
+  File "C:\Users\dl032\PyCharmMiscProject\anilist_top10.py", line 40, in <module>
+    print(f"{i}. {title}")
+    ~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\dl032\AppData\Local\Programs\Python\Python314\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u3010' in position 3: character maps to <undefined>
+1. Frieren: Beyond Journey’s End Season 2
+ Genre: ['Adventure', 'Drama', 'Fantasy']
+ Studio: MADHOUSE
+
+2. Fate/strange Fake
+ Genre: ['Action', 'Adventure', 'Fantasy', 'Mystery', 'Supernatural']
+ Studio: A-1 Pictures
+
+3. JUJUTSU KAISEN Season 3: The Culling Game Part 1
+ Genre: ['Action', 'Drama', 'Supernatural']
+ Studio: MAPPA
+
+4. Fire Force Season 3 Part 2
+ Genre: ['Action', 'Drama', 'Sci-Fi', 'Supernatural']
+ Studio: David Production
+
+5. Sentenced to Be a Hero
+ Genre: ['Action', 'Comedy', 'Drama', 'Fantasy']
+ Studio: Studio KAI
+
+6. Medalist Season 2
+ Genre: ['Drama', 'Psychological', 'Sports']
+ Studio: ENGI
+
+7. Reincarnated as a Dragon Hatchling
+ Genre: ['Action', 'Adventure', 'Fantasy']
+ Studio: GA-CREW, Felix Film
+
+8. To Your Eternity Season 3
+ Genre: ['Adventure', 'Drama', 'Fantasy', 'Psychological', 'Supernatural']
+ Studio: Drive, Studio Massket
+
+9. 【OSHI NO KO】Season 3
+ Genre: ['Drama', 'Mystery', 'Psychological', 'Supernatural']
+ Studio: Doga Kobo
+
+10. Hell’s Paradise Season 2
+ Genre: ['Action', 'Adventure', 'Mystery', 'Supernatural']
+ Studio: MAPPA
+
+11. TRIGUN STARGAZE
+ Genre: ['Action', 'Comedy', 'Drama', 'Sci-Fi']
+ Studio: Orange
+
+12. ONE PIECE
+ Genre: ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy']
+ Studio: Toei Animation
+
+13. HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing
+ Genre: ['Action', 'Adventure', 'Fantasy']
+ Studio: Yokohama Animation Lab
+
+14. Dead Account
+ Genre: ['Action', 'Supernatural']
+ Studio: SynergySP
+
+15. Tojima Wants to Be a Kamen Rider
+ Genre: ['Action', 'Comedy']
+ Studio: LIDENFILMS
+
+16. GNOSIA
+ Genre: ['Drama', 'Mystery', 'Sci-Fi', 'Thriller']
+ Studio: domerica
+
+17. Scum of the Brave
+ Genre: ['Action', 'Comedy', 'Drama', 'Fantasy', 'Sci-Fi']
+ Studio: OLM
+
+18. Gachiakuta
+ Genre: ['Action', 'Drama', 'Fantasy']
+ Studio: bones film
+
+19. You and I Are Polar Opposites
+ Genre: ['Comedy', 'Drama', 'Romance', 'Slice of Life']
+ Studio: Lapin Track
+
+20. Jack-of-All-Trades, Party of None
+ Genre: ['Action', 'Adventure', 'Fantasy']
+ Studio: animation studio42
+
+21. BEASTARS Final Season Part 2
+ Genre: ['Drama', 'Mystery', 'Psychological', 'Slice of Life']
+ Studio: Orange
+
+22. SHIBOYUGI: Playing Death Games to Put Food on the Table
+ Genre: ['Action', 'Drama', 'Mystery', 'Thriller']
+ Studio: Studio DEEN
+
+23. A Misanthrope Teaches a Class for Demi-Humans
+ Genre: ['Comedy', 'Drama', 'Fantasy', 'Romance', 'Slice of Life']
+ Studio: Asread
+
+24. Tamon's B-Side
+ Genre: ['Comedy', 'Romance']
+ Studio: J.C.STAFF
+
+25. Chained Soldier Season 2
+ Genre: ['Action', 'Adventure', 'Drama', 'Ecchi', 'Fantasy', 'Romance']
+ Studio: Passione, Hayabusa Film
+
+26. Frieren: Beyond Journey’s End
+ Genre: ['Adventure', 'Drama', 'Fantasy']
+ Studio: MADHOUSE
+
+27. JUJUTSU KAISEN
+ Genre: ['Action', 'Drama', 'Supernatural']
+ Studio: MAPPA
+
+28. Bleach
+ Genre: ['Action', 'Adventure', 'Supernatural']
+ Studio: Studio Pierrot
+
+29. ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!
+ Genre: ['Action', 'Adventure', 'Drama', 'Fantasy', 'Horror']
+ Studio: A.C.G.T.
+
+30. Hunter x Hunter (2011)
+ Genre: ['Action', 'Adventure', 'Fantasy']
+ Studio: MADHOUSE
+
+31. Fullmetal Alchemist: Brotherhood
+ Genre: ['Action', 'Adventure', 'Drama', 'Fantasy']
+ Studio: bones
+
+32. Evangelion: Housou 30 Shuunen Kinen Tokubetsu Kougyou
+ Genre: ['Psychological']
+ Studio: Studio Khara
+
+33. JUJUTSU KAISEN Season 2
+ Genre: ['Action', 'Drama', 'Supernatural']
+ Studio: MAPPA
+
+34. Black Clover
+ Genre: ['Action', 'Adventure', 'Comedy', 'Fantasy']
+ Studio: Studio Pierrot
+
+35. Neon Genesis Evangelion
+ Genre: ['Action', 'Drama', 'Mecha', 'Mystery', 'Psychological', 'Sci-Fi']
+ Studio: Gainax, Tatsunoko Production
+
+36. Naruto
+ Genre: ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Supernatural']
+ Studio: Studio Pierrot
+
+37. Champignon Witch
+ Genre: ['Drama', 'Fantasy', 'Supernatural']
+ Studio: Qzil.la, TYPHOON GRAPHICS
+
+38. Attack on Titan
+ Genre: ['Action', 'Drama', 'Fantasy', 'Mystery']
+ Studio: WIT STUDIO
+
+39. Easygoing Territory Defense by the Optimistic Lord
+ Genre: ['Adventure', 'Fantasy']
+ Studio: NAZ
+
+40. The Invisible Man and His Soon-to-Be Wife
+ Genre: ['Comedy', 'Romance', 'Supernatural']
+ Studio: project No.9
+
+41. Tune In to the Midnight Heart
+ Genre: ['Comedy', 'Romance']
+ Studio: Gekkou
+
+42. MF GHOST Season 3
+ Genre: ['Sports']
+ Studio: Felix Film
+
+43. Journal with Witch
+ Genre: ['Drama', 'Slice of Life']
+ Studio: Shuka
+
+44. Unanswered//butterfly: Sword Art Online
+ Genre: ['Action', 'Adventure']
+ Studio: POLYGON PICTURES
+
+45. There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her
+ Genre: ['Adventure', 'Comedy', 'Fantasy', 'Romance']
+ Studio: Gekkou
+
+46. My Hero Academia: Vigilantes Season 2
+ Genre: ['Action', 'Adventure', 'Drama', 'Fantasy']
+ Studio: bones film
+
+47. Naruto: Shippuden
+ Genre: ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Supernatural']
+ Studio: Studio Pierrot
+
+48. Fire Force
+ Genre: ['Action', 'Drama', 'Sci-Fi', 'Supernatural']
+ Studio: David Production
+
+49. Demon Slayer: Kimetsu no Yaiba
+ Genre: ['Action', 'Adventure', 'Drama', 'Fantasy', 'Supernatural']
+ Studio: ufotable
+
+50. Death Note
+ Genre: ['Mystery', 'Psychological', 'Supernatural', 'Thriller']
+ Studio: MADHOUSE
+
+CSV file created successfully
+1. Frieren: Beyond Journey’s End Season 2
+ Genre: ['Adventure', 'Drama', 'Fantasy']
+ Studio: MADHOUSE
+
+2. Fate/strange Fake
+ Genre: ['Action', 'Adventure', 'Fantasy', 'Mystery', 'Supernatural']
+ Studio: A-1 Pictures
+
+3. JUJUTSU KAISEN Season 3: The Culling Game Part 1
+ Genre: ['Action', 'Drama', 'Supernatural']
+ Studio: MAPPA
+
+4. Fire Force Season 3 Part 2
+ Genre: ['Action', 'Drama', 'Sci-Fi', 'Supernatural']
+ Studio: David Production
+
+5. Sentenced to Be a Hero
+ Genre: ['Action', 'Comedy', 'Drama', 'Fantasy']
+ Studio: Studio KAI
+
+6. Medalist Season 2
+ Genre: ['Drama', 'Psychological', 'Sports']
+ Studio: ENGI
+
+7. Reincarnated as a Dragon Hatchling
+ Genre: ['Action', 'Adventure', 'Fantasy']
+ Studio: GA-CREW, Felix Film
+
+8. To Your Eternity Season 3
+ Genre: ['Adventure', 'Drama', 'Fantasy', 'Psychological', 'Supernatural']
+ Studio: Drive, Studio Massket
+
+9. 【OSHI NO KO】Season 3
+ Genre: ['Drama', 'Mystery', 'Psychological', 'Supernatural']
+ Studio: Doga Kobo
+
+10. Hell’s Paradise Season 2
+ Genre: ['Action', 'Adventure', 'Mystery', 'Supernatural']
+ Studio: MAPPA
+
+11. TRIGUN STARGAZE
+ Genre: ['Action', 'Comedy', 'Drama', 'Sci-Fi']
+ Studio: Orange
+
+12. ONE PIECE
+ Genre: ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy']
+ Studio: Toei Animation
+
+13. HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing
+ Genre: ['Action', 'Adventure', 'Fantasy']
+ Studio: Yokohama Animation Lab
+
+14. Dead Account
+ Genre: ['Action', 'Supernatural']
+ Studio: SynergySP
+
+15. Tojima Wants to Be a Kamen Rider
+ Genre: ['Action', 'Comedy']
+ Studio: LIDENFILMS
+
+16. GNOSIA
+ Genre: ['Drama', 'Mystery', 'Sci-Fi', 'Thriller']
+ Studio: domerica
+
+17. Scum of the Brave
+ Genre: ['Action', 'Comedy', 'Drama', 'Fantasy', 'Sci-Fi']
+ Studio: OLM
+
+18. Gachiakuta
+ Genre: ['Action', 'Drama', 'Fantasy']
+ Studio: bones film
+
+19. You and I Are Polar Opposites
+ Genre: ['Comedy', 'Drama', 'Romance', 'Slice of Life']
+ Studio: Lapin Track
+
+20. Jack-of-All-Trades, Party of None
+ Genre: ['Action', 'Adventure', 'Fantasy']
+ Studio: animation studio42
+
+21. BEASTARS Final Season Part 2
+ Genre: ['Drama', 'Mystery', 'Psychological', 'Slice of Life']
+ Studio: Orange
+
+22. SHIBOYUGI: Playing Death Games to Put Food on the Table
+ Genre: ['Action', 'Drama', 'Mystery', 'Thriller']
+ Studio: Studio DEEN
+
+23. A Misanthrope Teaches a Class for Demi-Humans
+ Genre: ['Comedy', 'Drama', 'Fantasy', 'Romance', 'Slice of Life']
+ Studio: Asread
+
+24. Tamon's B-Side
+ Genre: ['Comedy', 'Romance']
+ Studio: J.C.STAFF
+
+25. Chained Soldier Season 2
+ Genre: ['Action', 'Adventure', 'Drama', 'Ecchi', 'Fantasy', 'Romance']
+ Studio: Passione, Hayabusa Film
+
+26. Frieren: Beyond Journey’s End
+ Genre: ['Adventure', 'Drama', 'Fantasy']
+ Studio: MADHOUSE
+
+27. JUJUTSU KAISEN
+ Genre: ['Action', 'Drama', 'Supernatural']
+ Studio: MAPPA
+
+28. Bleach
+ Genre: ['Action', 'Adventure', 'Supernatural']
+ Studio: Studio Pierrot
+
+29. ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!
+ Genre: ['Action', 'Adventure', 'Drama', 'Fantasy', 'Horror']
+ Studio: A.C.G.T.
+
+30. Hunter x Hunter (2011)
+ Genre: ['Action', 'Adventure', 'Fantasy']
+ Studio: MADHOUSE
+
+31. Fullmetal Alchemist: Brotherhood
+ Genre: ['Action', 'Adventure', 'Drama', 'Fantasy']
+ Studio: bones
+
+32. Evangelion: Housou 30 Shuunen Kinen Tokubetsu Kougyou
+ Genre: ['Psychological']
+ Studio: Studio Khara
+
+33. JUJUTSU KAISEN Season 2
+ Genre: ['Action', 'Drama', 'Supernatural']
+ Studio: MAPPA
+
+34. Black Clover
+ Genre: ['Action', 'Adventure', 'Comedy', 'Fantasy']
+ Studio: Studio Pierrot
+
+35. Neon Genesis Evangelion
+ Genre: ['Action', 'Drama', 'Mecha', 'Mystery', 'Psychological', 'Sci-Fi']
+ Studio: Gainax, Tatsunoko Production
+
+36. Naruto
+ Genre: ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Supernatural']
+ Studio: Studio Pierrot
+
+37. Champignon Witch
+ Genre: ['Drama', 'Fantasy', 'Supernatural']
+ Studio: Qzil.la, TYPHOON GRAPHICS
+
+38. Attack on Titan
+ Genre: ['Action', 'Drama', 'Fantasy', 'Mystery']
+ Studio: WIT STUDIO
+
+39. Easygoing Territory Defense by the Optimistic Lord
+ Genre: ['Adventure', 'Fantasy']
+ Studio: NAZ
+
+40. The Invisible Man and His Soon-to-Be Wife
+ Genre: ['Comedy', 'Romance', 'Supernatural']
+ Studio: project No.9
+
+41. Tune In to the Midnight Heart
+ Genre: ['Comedy', 'Romance']
+ Studio: Gekkou
+
+42. MF GHOST Season 3
+ Genre: ['Sports']
+ Studio: Felix Film
+
+43. Journal with Witch
+ Genre: ['Drama', 'Slice of Life']
+ Studio: Shuka
+
+44. Unanswered//butterfly: Sword Art Online
+ Genre: ['Action', 'Adventure']
+ Studio: POLYGON PICTURES
+
+45. There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her
+ Genre: ['Adventure', 'Comedy', 'Fantasy', 'Romance']
+ Studio: Gekkou
+
+46. My Hero Academia: Vigilantes Season 2
+ Genre: ['Action', 'Adventure', 'Drama', 'Fantasy']
+ Studio: bones film
+
+47. Naruto: Shippuden
+ Genre: ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Supernatural']
+ Studio: Studio Pierrot
+
+48. Fire Force
+ Genre: ['Action', 'Drama', 'Sci-Fi', 'Supernatural']
+ Studio: David Production
+
+49. Demon Slayer: Kimetsu no Yaiba
+ Genre: ['Action', 'Adventure', 'Drama', 'Fantasy', 'Supernatural']
+ Studio: ufotable
+
+50. Death Note
+ Genre: ['Mystery', 'Psychological', 'Supernatural', 'Thriller']
+ Studio: MADHOUSE
+
+CSV file created successfully
+1. JUJUTSU KAISEN Season 3: The Culling Game Part 1
+ Genre: ['Action', 'Drama', 'Supernatural']
+ Studio: MAPPA
+
+2. Sentenced to Be a Hero
+ Genre: ['Action', 'Comedy', 'Drama', 'Fantasy']
+ Studio: Studio KAI
+
+3. 【OSHI NO KO】Season 3
+ Genre: ['Drama', 'Mystery', 'Psychological', 'Supernatural']
+ Studio: Doga Kobo
+
+4. Chained Soldier Season 2
+ Genre: ['Action', 'Adventure', 'Drama', 'Ecchi', 'Fantasy', 'Romance']
+ Studio: Passione, Hayabusa Film
+
+5. Jack-of-All-Trades, Party of None
+ Genre: ['Action', 'Adventure', 'Fantasy']
+ Studio: animation studio42
+
+6. Frieren: Beyond Journey’s End Season 2
+ Genre: ['Adventure', 'Drama', 'Fantasy']
+ Studio: MADHOUSE
+
+7. Hell’s Paradise Season 2
+ Genre: ['Action', 'Adventure', 'Mystery', 'Supernatural']
+ Studio: MAPPA
+
+8. ONE PIECE
+ Genre: ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy']
+ Studio: Toei Animation
+
+9. ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!
+ Genre: ['Action', 'Adventure', 'Drama', 'Fantasy', 'Horror']
+ Studio: A.C.G.T.
+
+10. Easygoing Territory Defense by the Optimistic Lord
+ Genre: ['Adventure', 'Fantasy']
+ Studio: NAZ
+
+11. You and I Are Polar Opposites
+ Genre: ['Comedy', 'Drama', 'Romance', 'Slice of Life']
+ Studio: Lapin Track
+
+12. The Invisible Man and His Soon-to-Be Wife
+ Genre: ['Comedy', 'Romance', 'Supernatural']
+ Studio: project No.9
+
+13. The Holy Grail of Eris
+ Genre: ['Drama', 'Fantasy', 'Mystery', 'Romance', 'Supernatural']
+ Studio: Ashi Productions
+
+14. Tamon's B-Side
+ Genre: ['Comedy', 'Romance']
+ Studio: J.C.STAFF
+
+15. MF GHOST Season 3
+ Genre: ['Sports']
+ Studio: Felix Film
+
+16. Champignon Witch
+ Genre: ['Drama', 'Fantasy', 'Supernatural']
+ Studio: Qzil.la, TYPHOON GRAPHICS
+
+17. Fire Force Season 3 Part 2
+ Genre: ['Action', 'Drama', 'Sci-Fi', 'Supernatural']
+ Studio: David Production
+
+18. SHIBOYUGI: Playing Death Games to Put Food on the Table
+ Genre: ['Action', 'Drama', 'Mystery', 'Thriller']
+ Studio: Studio DEEN
+
+19. Fate/strange Fake
+ Genre: ['Action', 'Adventure', 'Fantasy', 'Mystery', 'Supernatural']
+ Studio: A-1 Pictures
+
+20. Hunter x Hunter (2011)
+ Genre: ['Action', 'Adventure', 'Fantasy']
+ Studio: MADHOUSE
+
+21. Gachiakuta
+ Genre: ['Action', 'Drama', 'Fantasy']
+ Studio: bones film
+
+22. Journal with Witch
+ Genre: ['Drama', 'Slice of Life']
+ Studio: Shuka
+
+23. Frieren: Beyond Journey’s End
+ Genre: ['Adventure', 'Drama', 'Fantasy']
+ Studio: MADHOUSE
+
+24. Bleach
+ Genre: ['Action', 'Adventure', 'Supernatural']
+ Studio: Studio Pierrot
+
+25. An Adventurer’s Daily Grind at Age 29
+ Genre: ['Adventure', 'Fantasy', 'Slice of Life']
+ Studio: HORNETS
+
+26. My Hero Academia: Vigilantes Season 2
+ Genre: ['Action', 'Adventure', 'Drama', 'Fantasy']
+ Studio: bones film
+
+27. There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her
+ Genre: ['Adventure', 'Comedy', 'Fantasy', 'Romance']
+ Studio: Gekkou
+
+28. Attack on Titan
+ Genre: ['Action', 'Drama', 'Fantasy', 'Mystery']
+ Studio: WIT STUDIO
+
+29. JUJUTSU KAISEN
+ Genre: ['Action', 'Drama', 'Supernatural']
+ Studio: MAPPA
+
+30. Fullmetal Alchemist: Brotherhood
+ Genre: ['Action', 'Adventure', 'Drama', 'Fantasy']
+ Studio: bones
+
+31. Monster
+ Genre: ['Drama', 'Horror', 'Mystery', 'Psychological', 'Thriller']
+ Studio: MADHOUSE
+
+32. BEASTARS Final Season Part 2
+ Genre: ['Drama', 'Mystery', 'Psychological', 'Slice of Life']
+ Studio: Orange
+
+33. Death Note
+ Genre: ['Mystery', 'Psychological', 'Supernatural', 'Thriller']
+ Studio: MADHOUSE
+
+34. Black Clover
+ Genre: ['Action', 'Adventure', 'Comedy', 'Fantasy']
+ Studio: Studio Pierrot
+
+35. HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing
+ Genre: ['Action', 'Adventure', 'Fantasy']
+ Studio: Yokohama Animation Lab
+
+36. The Fragrant Flower Blooms With Dignity
+ Genre: ['Comedy', 'Drama', 'Romance']
+ Studio: CloverWorks
+
+37. JUJUTSU KAISEN Season 2
+ Genre: ['Action', 'Drama', 'Supernatural']
+ Studio: MAPPA
+
+38. You Can't Be In a Rom-Com with Your Childhood Friends!
+ Genre: ['Comedy', 'Romance']
+ Studio: Tezuka Productions
+
+39. Tune In to the Midnight Heart
+ Genre: ['Comedy', 'Romance']
+ Studio: Gekkou
+
+40. A Silent Voice
+ Genre: ['Drama', 'Romance', 'Slice of Life']
+ Studio: Kyoto Animation
+
+41. Code Geass: Lelouch of the Rebellion
+ Genre: ['Action', 'Drama', 'Mecha', 'Sci-Fi', 'Thriller']
+ Studio: Sunrise
+
+42. Neon Genesis Evangelion
+ Genre: ['Action', 'Drama', 'Mecha', 'Mystery', 'Psychological', 'Sci-Fi']
+ Studio: Gainax, Tatsunoko Production
+
+43. BAKI-DOU: The Invincible Samurai
+ Genre: ['Action', 'Sports']
+ Studio: TMS Entertainment
+
+44. Chainsaw Man – The Movie: Reze Arc
+ Genre: ['Action', 'Drama', 'Horror', 'Romance', 'Supernatural']
+ Studio: MAPPA
+
+45. Demon Slayer: Kimetsu no Yaiba
+ Genre: ['Action', 'Adventure', 'Drama', 'Fantasy', 'Supernatural']
+ Studio: ufotable
+
+46. Tokyo Ghoul
+ Genre: ['Action', 'Drama', 'Horror', 'Mystery', 'Psychological', 'Supernatural']
+ Studio: Studio Pierrot
+
+47. Naruto
+ Genre: ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Supernatural']
+ Studio: Studio Pierrot
+
+48. Golden Kamuy Final Season
+ Genre: ['Action', 'Adventure', 'Comedy']
+ Studio: Brain's Base
+
+49. Attack on Titan Season 3
+ Genre: ['Action', 'Drama', 'Fantasy', 'Mystery']
+ Studio: WIT STUDIO
+
+50. Naruto: Shippuden
+ Genre: ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Supernatural']
+ Studio: Studio Pierrot
+
+CSV file created successfully
+1. JUJUTSU KAISEN Season 3: The Culling Game Part 1
+ Genre: ['Action', 'Drama', 'Supernatural']
+ Studio: MAPPA
+
+2. Sentenced to Be a Hero
+ Genre: ['Action', 'Comedy', 'Drama', 'Fantasy']
+ Studio: Studio KAI
+
+3. 【OSHI NO KO】Season 3
+ Genre: ['Drama', 'Mystery', 'Psychological', 'Supernatural']
+ Studio: Doga Kobo
+
+4. Chained Soldier Season 2
+ Genre: ['Action', 'Adventure', 'Drama', 'Ecchi', 'Fantasy', 'Romance']
+ Studio: Passione, Hayabusa Film
+
+5. Jack-of-All-Trades, Party of None
+ Genre: ['Action', 'Adventure', 'Fantasy']
+ Studio: animation studio42
+
+6. Frieren: Beyond Journey’s End Season 2
+ Genre: ['Adventure', 'Drama', 'Fantasy']
+ Studio: MADHOUSE
+
+7. Hell’s Paradise Season 2
+ Genre: ['Action', 'Adventure', 'Mystery', 'Supernatural']
+ Studio: MAPPA
+
+8. ONE PIECE
+ Genre: ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy']
+ Studio: Toei Animation
+
+9. ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!
+ Genre: ['Action', 'Adventure', 'Drama', 'Fantasy', 'Horror']
+ Studio: A.C.G.T.
+
+10. Easygoing Territory Defense by the Optimistic Lord
+ Genre: ['Adventure', 'Fantasy']
+ Studio: NAZ
+
+11. You and I Are Polar Opposites
+ Genre: ['Comedy', 'Drama', 'Romance', 'Slice of Life']
+ Studio: Lapin Track
+
+12. The Invisible Man and His Soon-to-Be Wife
+ Genre: ['Comedy', 'Romance', 'Supernatural']
+ Studio: project No.9
+
+13. The Holy Grail of Eris
+ Genre: ['Drama', 'Fantasy', 'Mystery', 'Romance', 'Supernatural']
+ Studio: Ashi Productions
+
+14. Tamon's B-Side
+ Genre: ['Comedy', 'Romance']
+ Studio: J.C.STAFF
+
+15. MF GHOST Season 3
+ Genre: ['Sports']
+ Studio: Felix Film
+
+16. Champignon Witch
+ Genre: ['Drama', 'Fantasy', 'Supernatural']
+ Studio: Qzil.la, TYPHOON GRAPHICS
+
+17. Fire Force Season 3 Part 2
+ Genre: ['Action', 'Drama', 'Sci-Fi', 'Supernatural']
+ Studio: David Production
+
+18. SHIBOYUGI: Playing Death Games to Put Food on the Table
+ Genre: ['Action', 'Drama', 'Mystery', 'Thriller']
+ Studio: Studio DEEN
+
+19. Fate/strange Fake
+ Genre: ['Action', 'Adventure', 'Fantasy', 'Mystery', 'Supernatural']
+ Studio: A-1 Pictures
+
+20. Hunter x Hunter (2011)
+ Genre: ['Action', 'Adventure', 'Fantasy']
+ Studio: MADHOUSE
+
+21. Gachiakuta
+ Genre: ['Action', 'Drama', 'Fantasy']
+ Studio: bones film
+
+22. Journal with Witch
+ Genre: ['Drama', 'Slice of Life']
+ Studio: Shuka
+
+23. Frieren: Beyond Journey’s End
+ Genre: ['Adventure', 'Drama', 'Fantasy']
+ Studio: MADHOUSE
+
+24. Bleach
+ Genre: ['Action', 'Adventure', 'Supernatural']
+ Studio: Studio Pierrot
+
+25. An Adventurer’s Daily Grind at Age 29
+ Genre: ['Adventure', 'Fantasy', 'Slice of Life']
+ Studio: HORNETS
+
+26. My Hero Academia: Vigilantes Season 2
+ Genre: ['Action', 'Adventure', 'Drama', 'Fantasy']
+ Studio: bones film
+
+27. There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her
+ Genre: ['Adventure', 'Comedy', 'Fantasy', 'Romance']
+ Studio: Gekkou
+
+28. Attack on Titan
+ Genre: ['Action', 'Drama', 'Fantasy', 'Mystery']
+ Studio: WIT STUDIO
+
+29. JUJUTSU KAISEN
+ Genre: ['Action', 'Drama', 'Supernatural']
+ Studio: MAPPA
+
+30. Fullmetal Alchemist: Brotherhood
+ Genre: ['Action', 'Adventure', 'Drama', 'Fantasy']
+ Studio: bones
+
+31. Monster
+ Genre: ['Drama', 'Horror', 'Mystery', 'Psychological', 'Thriller']
+ Studio: MADHOUSE
+
+32. BEASTARS Final Season Part 2
+ Genre: ['Drama', 'Mystery', 'Psychological', 'Slice of Life']
+ Studio: Orange
+
+33. Death Note
+ Genre: ['Mystery', 'Psychological', 'Supernatural', 'Thriller']
+ Studio: MADHOUSE
+
+34. Black Clover
+ Genre: ['Action', 'Adventure', 'Comedy', 'Fantasy']
+ Studio: Studio Pierrot
+
+35. HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing
+ Genre: ['Action', 'Adventure', 'Fantasy']
+ Studio: Yokohama Animation Lab
+
+36. The Fragrant Flower Blooms With Dignity
+ Genre: ['Comedy', 'Drama', 'Romance']
+ Studio: CloverWorks
+
+37. JUJUTSU KAISEN Season 2
+ Genre: ['Action', 'Drama', 'Supernatural']
+ Studio: MAPPA
+
+38. You Can't Be In a Rom-Com with Your Childhood Friends!
+ Genre: ['Comedy', 'Romance']
+ Studio: Tezuka Productions
+
+39. Tune In to the Midnight Heart
+ Genre: ['Comedy', 'Romance']
+ Studio: Gekkou
+
+40. A Silent Voice
+ Genre: ['Drama', 'Romance', 'Slice of Life']
+ Studio: Kyoto Animation
+
+41. Code Geass: Lelouch of the Rebellion
+ Genre: ['Action', 'Drama', 'Mecha', 'Sci-Fi', 'Thriller']
+ Studio: Sunrise
+
+42. Neon Genesis Evangelion
+ Genre: ['Action', 'Drama', 'Mecha', 'Mystery', 'Psychological', 'Sci-Fi']
+ Studio: Gainax, Tatsunoko Production
+
+43. BAKI-DOU: The Invincible Samurai
+ Genre: ['Action', 'Sports']
+ Studio: TMS Entertainment
+
+44. Chainsaw Man – The Movie: Reze Arc
+ Genre: ['Action', 'Drama', 'Horror', 'Romance', 'Supernatural']
+ Studio: MAPPA
+
+45. Demon Slayer: Kimetsu no Yaiba
+ Genre: ['Action', 'Adventure', 'Drama', 'Fantasy', 'Supernatural']
+ Studio: ufotable
+
+46. Tokyo Ghoul
+ Genre: ['Action', 'Drama', 'Horror', 'Mystery', 'Psychological', 'Supernatural']
+ Studio: Studio Pierrot
+
+47. Naruto
+ Genre: ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Supernatural']
+ Studio: Studio Pierrot
+
+48. Golden Kamuy Final Season
+ Genre: ['Action', 'Adventure', 'Comedy']
+ Studio: Brain's Base
+
+49. Attack on Titan Season 3
+ Genre: ['Action', 'Drama', 'Fantasy', 'Mystery']
+ Studio: WIT STUDIO
+
+50. Naruto: Shippuden
+ Genre: ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Supernatural']
+ Studio: Studio Pierrot
+
+CSV file created successfully
+1. Frieren: Beyond Journey’s End Season 2
+ Genre: ['Adventure', 'Drama', 'Fantasy']
+ Studio: MADHOUSE
+
+2. JUJUTSU KAISEN Season 3: The Culling Game Part 1
+ Genre: ['Action', 'Drama', 'Supernatural']
+ Studio: MAPPA
+
+3. Fire Force Season 3 Part 2
+ Genre: ['Action', 'Drama', 'Sci-Fi', 'Supernatural']
+ Studio: David Production
+
+4. HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing
+ Genre: ['Action', 'Adventure', 'Fantasy']
+ Studio: Yokohama Animation Lab
+
+5. Sentenced to Be a Hero
+ Genre: ['Action', 'Comedy', 'Drama', 'Fantasy']
+ Studio: Studio KAI
+
+6. ONE PIECE
+ Genre: ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy']
+ Studio: Toei Animation
+
+7. 【OSHI NO KO】Season 3
+ Genre: ['Drama', 'Mystery', 'Psychological', 'Supernatural']
+ Studio: Doga Kobo
+
+8. Jack-of-All-Trades, Party of None
+ Genre: ['Action', 'Adventure', 'Fantasy']
+ Studio: animation studio42
+
+9. Chained Soldier Season 2
+ Genre: ['Action', 'Adventure', 'Drama', 'Ecchi', 'Fantasy', 'Romance']
+ Studio: Passione, Hayabusa Film
+
+10. Hell’s Paradise Season 2
+ Genre: ['Action', 'Adventure', 'Mystery', 'Supernatural']
+ Studio: MAPPA
+
+11. You and I Are Polar Opposites
+ Genre: ['Comedy', 'Drama', 'Romance', 'Slice of Life']
+ Studio: Lapin Track
+
+12. Hunter x Hunter (2011)
+ Genre: ['Action', 'Adventure', 'Fantasy']
+ Studio: MADHOUSE
+
+13. Tamon's B-Side
+ Genre: ['Comedy', 'Romance']
+ Studio: J.C.STAFF
+
+14. Easygoing Territory Defense by the Optimistic Lord
+ Genre: ['Adventure', 'Fantasy']
+ Studio: NAZ
+
+15. DARK MOON: THE BLOOD ALTAR
+ Genre: ['Supernatural']
+ Studio: TROYCA
+
+16. There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her
+ Genre: ['Adventure', 'Comedy', 'Fantasy', 'Romance']
+ Studio: Gekkou
+
+17. SHIBOYUGI: Playing Death Games to Put Food on the Table
+ Genre: ['Action', 'Drama', 'Mystery', 'Thriller']
+ Studio: Studio DEEN
+
+18. Gachiakuta
+ Genre: ['Action', 'Drama', 'Fantasy']
+ Studio: bones film
+
+19. ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!
+ Genre: ['Action', 'Adventure', 'Drama', 'Fantasy', 'Horror']
+ Studio: A.C.G.T.
+
+20. The Holy Grail of Eris
+ Genre: ['Drama', 'Fantasy', 'Mystery', 'Romance', 'Supernatural']
+ Studio: Ashi Productions
+
+21. Bleach
+ Genre: ['Action', 'Adventure', 'Supernatural']
+ Studio: Studio Pierrot
+
+22. JUJUTSU KAISEN Season 2
+ Genre: ['Action', 'Drama', 'Supernatural']
+ Studio: MAPPA
+
+23. Fate/strange Fake
+ Genre: ['Action', 'Adventure', 'Fantasy', 'Mystery', 'Supernatural']
+ Studio: A-1 Pictures
+
+24. Frieren: Beyond Journey’s End
+ Genre: ['Adventure', 'Drama', 'Fantasy']
+ Studio: MADHOUSE
+
+25. JUJUTSU KAISEN
+ Genre: ['Action', 'Drama', 'Supernatural']
+ Studio: MAPPA
+
+26. Black Clover
+ Genre: ['Action', 'Adventure', 'Comedy', 'Fantasy']
+ Studio: Studio Pierrot
+
+27. Champignon Witch
+ Genre: ['Drama', 'Fantasy', 'Supernatural']
+ Studio: Qzil.la, TYPHOON GRAPHICS
+
+28. The Invisible Man and His Soon-to-Be Wife
+ Genre: ['Comedy', 'Romance', 'Supernatural']
+ Studio: project No.9
+
+29. Attack on Titan
+ Genre: ['Action', 'Drama', 'Fantasy', 'Mystery']
+ Studio: WIT STUDIO
+
+30. My Hero Academia: Vigilantes Season 2
+ Genre: ['Action', 'Adventure', 'Drama', 'Fantasy']
+ Studio: bones film
+
+31. Tune In to the Midnight Heart
+ Genre: ['Comedy', 'Romance']
+ Studio: Gekkou
+
+32. Journal with Witch
+ Genre: ['Drama', 'Slice of Life']
+ Studio: Shuka
+
+33. The Apothecary Diaries Season 2
+ Genre: ['Drama', 'Mystery']
+ Studio: TOHO animation STUDIO, OLM
+
+34. Naruto
+ Genre: ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Supernatural']
+ Studio: Studio Pierrot
+
+35. The Apothecary Diaries
+ Genre: ['Drama', 'Mystery']
+ Studio: OLM, TOHO animation STUDIO
+
+36. Hell’s Paradise
+ Genre: ['Action', 'Adventure', 'Mystery', 'Supernatural']
+ Studio: MAPPA
+
+37. Attack on Titan Final Season
+ Genre: ['Action', 'Drama', 'Fantasy', 'Mystery']
+ Studio: MAPPA
+
+38. Death Note
+ Genre: ['Mystery', 'Psychological', 'Supernatural', 'Thriller']
+ Studio: MADHOUSE
+
+39. BEASTARS Final Season Part 2
+ Genre: ['Drama', 'Mystery', 'Psychological', 'Slice of Life']
+ Studio: Orange
+
+40. Chainsaw Man
+ Genre: ['Action', 'Drama', 'Horror', 'Supernatural']
+ Studio: MAPPA
+
+41. The Fragrant Flower Blooms With Dignity
+ Genre: ['Comedy', 'Drama', 'Romance']
+ Studio: CloverWorks
+
+42. Naruto: Shippuden
+ Genre: ['Action', 'Adventure', 'Comedy', 'Drama', 'Fantasy', 'Supernatural']
+ Studio: Studio Pierrot
+
+43. Kunon the Sorcerer Can See
+ Genre: ['Action', 'Adventure', 'Fantasy']
+ Studio: Platinum Vision
+
+44. MF GHOST Season 3
+ Genre: ['Sports']
+ Studio: Felix Film
+
+45. Fullmetal Alchemist: Brotherhood
+ Genre: ['Action', 'Adventure', 'Drama', 'Fantasy']
+ Studio: bones
+
+46. Vinland Saga
+ Genre: ['Action', 'Adventure', 'Drama']
+ Studio: WIT STUDIO
+
+47. A Silent Voice
+ Genre: ['Drama', 'Romance', 'Slice of Life']
+ Studio: Kyoto Animation
+
+48. Chainsaw Man – The Movie: Reze Arc
+ Genre: ['Action', 'Drama', 'Horror', 'Romance', 'Supernatural']
+ Studio: MAPPA
+
+49. DAN DA DAN
+ Genre: ['Action', 'Comedy', 'Drama', 'Romance', 'Sci-Fi', 'Supernatural']
+ Studio: Science SARU
+
+50. Dr. STONE
+ Genre: ['Action', 'Adventure', 'Comedy', 'Sci-Fi']
+ Studio: TMS Entertainment
+
+CSV file created successfully
